@@ -21,7 +21,7 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 - **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
 - **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 - **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
-- **[Bizagi](https://www.bizagi.com/)** - Combines process automation with AI-driven insights for digital transformation.
+- **[Bizagi](https://www.bizagi.com/)** - *[Review](https://www.gartner.com/reviews/market/business-process-automation-tools/vendor/bizagi)*: Combines process automation with AI-driven insights for digital transformation.
 - **[ClickUp](https://clickup.com/)** - *[Review](https://productivity.directory/clickup)*: Serves as an all-in-one, customizable workspace.
 - **[Huginn](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
 - **[IFTTT](https://ifttt.com/)** - *[Review](https://productivity.directory/ifttt)*: Enables integration and innovation across different platforms.
