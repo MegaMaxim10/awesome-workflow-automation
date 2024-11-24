@@ -20,6 +20,7 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 - **[Airtable](https://airtable.com/)** - *[Review](https://productivity.directory/airtable)*: Facilitates building custom apps to meet workflow needs.
 - **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
 - **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
+- **[Automation Anywhere](https://www.automationanywhere.com/)** - *[Review](https://www.trustradius.com/products/automation-anywhere/reviews)*: A leader in intelligent automation, combining RPA with AI and machine learning.
 - **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
 - **[ClickUp](https://clickup.com/)** - *[Review](https://productivity.directory/clickup)*: Serves as an all-in-one, customizable workspace.
 - **[Huginn](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
