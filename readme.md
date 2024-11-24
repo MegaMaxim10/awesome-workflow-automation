@@ -21,6 +21,7 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 - **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
 - **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 - **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
+- **[Camunda](https://camunda.com/)** - *[Review](https://www.gartner.com/reviews/market/intelligent-business-process-management-suites/vendor/camunda)*: A developer-friendly workflow and decision automation tool.
 - **[ClickUp](https://clickup.com/)** - *[Review](https://productivity.directory/clickup)*: Serves as an all-in-one, customizable workspace.
 - **[Huginn](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
 - **[IFTTT](https://ifttt.com/)** - *[Review](https://productivity.directory/ifttt)*: Enables integration and innovation across different platforms.
